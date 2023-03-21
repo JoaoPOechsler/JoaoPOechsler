@@ -1,7 +1,7 @@
 ### Olá eu sou o João 👋
 
-- 🌱 Aprendendo Yii2 Framework 
-- 💬 Contato: joaopedro030303@gmail.com
+- Dev Fullstack
+- 💬 Contato: jaooechsler@gmail.com
 
 <div align="center">
   <a href="https://github.com/JoaoPOechsler">
